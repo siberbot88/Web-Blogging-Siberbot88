@@ -210,7 +210,7 @@
     const submitBtnRef = contactFormRef.querySelector("button[type='submit']");
     const submitBtnTextRef = submitBtnRef.innerHTML;
     const statusRef = contactFormRef.querySelector(".status");
-    const emailAddress = "platoltheme@gmail.com";
+    const emailAddress = "mohammadbayurizkii@gmail.com";
     const formsubmitURL = `https://formsubmit.co/ajax/${emailAddress}`;
 
     const formHandler = (e) => {
