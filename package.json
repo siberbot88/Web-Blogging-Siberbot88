@@ -1,9 +1,9 @@
 {
-  "name": "aver-html",
+  "name": "Blogger-by-siberbot88",
   "version": "1.0.0",
-  "description": "TailwindCSS Personal Portfolio Template",
-  "author": "Platol",
-  "license": "Themeforest Standard Licence",
+  "description": "Web BLogger Personal By Siberbot88",
+  "author": "Siberbot88",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "tailwindcss -i ./source/styles/main.css -o ./source/styles/output.css --watch",
