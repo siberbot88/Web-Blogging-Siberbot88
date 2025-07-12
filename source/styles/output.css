@@ -3834,6 +3834,10 @@ select:-webkit-autofill:focus {
   line-height: 1rem;
 }
 
+.font-bold{
+  font-weight: 700;
+}
+
 .font-light{
   font-weight: 300;
 }
@@ -3848,10 +3852,6 @@ select:-webkit-autofill:focus {
 
 .font-thin{
   font-weight: 100;
-}
-
-.font-bold{
-  font-weight: 700;
 }
 
 .uppercase{
